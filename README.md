@@ -2,6 +2,15 @@
 # Proyecto - 1ra entrega
 
 ## Integrantes
+[Einer Julian Agudelo Acosta](https://github.com/EinerAgudelo2912)
 
+[Juan David Romero Perez](https://github.com/JuanDaRP90)
+
+[Hasbleidy Johanna Silva Escarraga](https://github.com/hassilva)
+
+[Daniel Felipe Duarte Bohórquez](https://github.com/DanielF793)
 
 ## Documentación
+
+
+[PROYECTO](/DIAPOSITIVAS/SISTEMAS%20DIGITALES%20I%20(1).pdf)
